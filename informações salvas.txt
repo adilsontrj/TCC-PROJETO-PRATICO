@@ -1,0 +1,8 @@
+senha firebase: sotp2924636
+
+
+url banco de dados: https://esp-project-d4bbe-default-rtdb.firebaseio.com/
+
+api do banco :AIzaSyCD4SZgGuH-_85WjSvo3WhS9CIIFxhOX8E
+
+
